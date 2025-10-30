@@ -65,6 +65,6 @@ earthquake-tsunami-risk-analysis/
 │   └── dashboards/
 │       └── tableau_dashboard_link.md
 ├── presentation/
-│   └── Earthquake_Tsunami_Risk_Analysis_Presentation.pptx
+│   └── Earthquake_Presentation_Link.md
 ├── README.md
 └── LICENSE
