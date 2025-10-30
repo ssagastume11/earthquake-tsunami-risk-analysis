@@ -39,8 +39,7 @@ The main goal of this analysis is to evaluate global earthquake behavior and ass
 
 - **Google Cloud BigQuery** — data cleaning, transformation, and SQL analysis  
 - **Tableau** — interactive dashboards and visual storytelling  
-- **Google Slides / PowerPoint** — presentation for stakeholders  
-- **Python / R** (optional) — additional cleaning, modeling, or plotting  
+- **Google Slides / PowerPoint** — presentation for stakeholders   
 - **Git & GitHub** — version control and project hosting
 
 ---
@@ -93,3 +92,40 @@ ORDER BY
 
 ---
 
+## 📈 Analysis Output
+The final visualizations, saved in the `outputs/charts` folder, include:
+- `avg_magnitude_avg_depth_by_year.png` — trend lines for average magnitude and depth (2001–2022).
+- `total_earthquakes_vs_tsunami_by_year.png` — counts of total quakes vs tsunami events by year.
+- `depth_vs_magnitude_scatter.png` — scatter showing depth vs magnitude colored by tsunami events.
+
+---
+
+## 🧾 Presentation
+The final presentation (in the `presentation/` folder) summarizes methods, recommendations and visualizations:
+- Project purpose and data overview
+- Data preparation steps (Step 2)
+- Processing and modeling approach (Step 3)
+- Key findings (Step 4)
+- Visualizations and interactive dashboard (Step 5)
+- Actionable recommendations (Step 6)
+
+---
+
+## ✅ Next Steps
+- Build an interactive Tableau dashboard and publish to Tableau Public. 
+- Train and evaluate a baseline ML classifer for tsunami predicition (features: magnitude, depth, dmin, gap, etc.)
+- Enrich dataset with coastal population and infrastructure layers for impact assessment.
+- Share findings with stakeholders and emergency management teams
+
+---
+
+## 🙌 Acknowledgments
+- Dataset courtesy of [Ahmed Uzaki on Kaggle](https://www.kaggle.com/datasets/ahmeduzaki/global-earthquake-tsunami-risk-assessment)
+- Tools powered by Google Cloud, BigQuery, SQL, Tableau and open source communities.
+
+---
+
+👨‍💻 Author
+
+**Sergio E. Sagastume**
+Data Analyst | SQL | Tableau | R
