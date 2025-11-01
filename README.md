@@ -4,7 +4,7 @@
 ## 📊 Interactive Dashboard
 
 Explore the full interactive visualization on Tableau Public:  
-🔗 [**View Dashboard on Tableau Public**](https://public.tableau.com/views/EarthquakeTsunamiRiskAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+🔗 [**Global Earthquake & Tsunami Risk Analysis (2001-2022)**](https://public.tableau.com/views/EarthquakeTsunamiRiskAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 This interactive panel presents the main trends in Earthquake and Tsunami Risk Analysis (2001–2022):
 - 🌋 Total Earthquakes & Tsunami Events by Year  
