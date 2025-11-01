@@ -1,6 +1,19 @@
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/ssagastume11/earthquake-tsunami-risk-analysis)
 ![Last Commit](https://img.shields.io/github/last-commit/ssagastume11/earthquake-tsunami-risk-analysis)
 
+## 📊 Interactive Dashboard
+
+Explore the full interactive visualization on Tableau Public:  
+🔗 [**View Dashboard on Tableau Public**](https://public.tableau.com/views/EarthquakeTsunamiRiskAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+This interactive panel presents the main trends in Earthquake and Tsunami Risk Analysis (2001–2022):
+- 🌋 Total Earthquakes & Tsunami Events by Year  
+- 🌎 Map of Global Events  
+- 📈 Average Magnitude vs. Depth over Time  
+- ⚡ Correlation between Earthquake Frequency and Tsunami Incidents
+
+---
+
 # 🌊 Earthquake–Tsunami Risk Analysis (2001–2022)
 
 This project analyzes global earthquake and tsunami risk trends from 2001 to 2022. Using SQL in Google BigQuery for data preparation and analysis, and Tableau for visualization, the project explores how seismic characteristics (magnitude, depth, location) relate to tsunami generation and identifies geographic and temporal risk patterns.
