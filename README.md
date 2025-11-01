@@ -9,8 +9,8 @@ Explore the full interactive visualization on Tableau Public:
 This interactive panel presents the main trends in Earthquake and Tsunami Risk Analysis (2001–2022):
 - 🌋 Total Earthquakes & Tsunami Events by Year  
 - 🌎 Map of Global Events  
-- 📈 Average Magnitude vs. Depth over Time  
-- ⚡ Correlation between Earthquake Frequency and Tsunami Incidents
+- 📈 Average Magnitude vs. Depth over Time
+- ⚡ Correlation between Earthquake Frequency and Tsunami Incidents.
 
 ---
 
